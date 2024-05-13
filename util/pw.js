@@ -1,6 +1,6 @@
 const status = "AUTOMATIC";
-const botName = "💎 PRIME MUSIC";
-const Text = "GlaceYT";
+const botName = "💎 TARIKZESTFEST MUSIC";
+const Text = "Cajger";
 const version = "Latest@ v1.0"; 
 const startTime = Date.now();
 
